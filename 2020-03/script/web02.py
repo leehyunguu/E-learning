@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 page = open('sample.html', 'rt', encoding='utf-8').read()
 soup = BeautifulSoup(page, 'html.parser')
-#print(soup.prettify())
+print(soup.prettify())
 
 #문서 내부에 있는 <p>태그를 모두 검색합니다. 
 print(soup.find_all('p'))
