@@ -50,4 +50,7 @@
 
 - 20가지 상황으로 배우는 프로젝트 관리
 
+> 프로젝트의 전반적인 진행 순서와 단계별 세부사항에 대해 좀 더 잘 알게되었다. [관련 책]
+
 [LG 인화원]: https://www.lgacademy.com/login/index.php
+[관련 책]: https://www.pmi.org/pmbok-guide-standards/foundational/pmbok
